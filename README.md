@@ -13,6 +13,10 @@ https://killertee.wordpress.com/2021/12/10/particle-system-rendering-optimizatio
 
 <p align="center"><a href="https://www.buymeacoffee.com/KamperTee" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 164px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
+or via PayPal
+
+https://www.paypal.com/paypalme/kampertee
+
 ## Build guide
 
 + Clone this project and open it using Unity 2020.3.19f1 in Android Platform.  
